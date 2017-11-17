@@ -1,0 +1,87 @@
+{
+ 
+    "update" : "November 17, 2017",
+  
+    "developer" : "Raul Vallejo III",
+  
+    "badge " : "3666",
+  
+    "agency" : "HCSO",
+  
+   
+    "offenses" :
+               [
+
+
+{
+"name": "Raul Vallejo", "age":36,"secretIdentity":"3666","powers":
+[ "Super Strength", "Word Voodoo", "Driving"
+]
+},
+
+                  {
+           
+        "name" : "Molecule Man",
+      
+                   "age" : 29,
+
+                   "secretIdentity" : "Dan Jukes",
+      
+                   "powers" : 
+                           [
+"Radiation resistance",
+        
+                            "Turning tiny",
+                    
+        "Radiation blast"
+
+                           ]
+  
+                   },
+
+                   {
+           
+         "name" : "Madame Uppercut",
+    
+                 "age" : 39,
+      
+                 "secretIdentity" : "Jane Wilson",
+      
+                 "powers" : 
+                          ["Million tonne punch",
+
+                           "Damage resistance",
+                                                          "Superhuman reflexes"
+      
+                          ]
+ 
+              },
+
+              {
+
+                "name" : "Eternal Flame",
+      
+                "age" : 1000000,
+      
+                "secretIdentity" : "Unknown",
+      
+                "powers" : 
+                         [
+                          "Immortality",
+        
+                          "Heat Immunity",
+        
+                          "Inferno",
+        
+                          "Teleportation",
+        
+                          "Interdimensional travel"
+      
+                         ]
+
+                }
+
+                  
+       ]
+
+}
